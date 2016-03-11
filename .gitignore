@@ -1,0 +1,15 @@
+.vagrant
+/cookbooks
+
+# Berkshelf
+/Berksfile.lock
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+
+# RSpec
+/spec/examples.txt
